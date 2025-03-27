@@ -1,0 +1,10 @@
+{
+  "data": {
+    "code": "200",
+    "success": true,
+    "body": {
+      "starPathUrl": "",
+      "setting": false
+    }
+  }
+}
